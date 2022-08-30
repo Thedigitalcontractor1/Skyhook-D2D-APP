@@ -1,6 +1,6 @@
 ## Introduction
 
-Our Voice USA is a 501(c)(3) non-profit, non-partisan organization for civic education. We are writing tools to engage everyday citizens with the political process by providing easy access to civic information that's relevant to the individual.
+Skyhook is taking on the world lets go!.
 
 ## Development Setup
 
@@ -8,7 +8,7 @@ Docker is required to get the database running, so make sure you have that insta
 
 To get set up locally, simply run the following commands:
 
-    git clone https://github.com/OurVoiceUSA/HelloVoter.git
+    git clone https://github.com/thedigitacontractor/skyhook-d2d-app.git
     cd HelloVoter
     npm install
     npm run database
